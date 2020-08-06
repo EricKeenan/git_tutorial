@@ -8,7 +8,7 @@ python3 main.py
 """
 
 # Group 1
-# print("Group 1")
+print("Group 1")
 
 # Group 2
 # print("Group 2")
@@ -23,8 +23,5 @@ python3 main.py
 # Group 5
 # print("Group 5")
 
-
 # Group 6
 # print("Group 6")
-
-
