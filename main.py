@@ -14,7 +14,7 @@ print("Group 1")
 # print("Group 2")
 
 # Group 3
-# print("Group 3")
+ print("Group 3")
 
 # Group 4
 # print("Group 4")
