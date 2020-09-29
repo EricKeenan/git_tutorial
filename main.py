@@ -11,7 +11,7 @@ python3 main.py
 print("Group 1")
 
 # Group 2
-# print("Group 2")
+print("Group 2 is the best")
 
 # Group 3
 print("Group 3")
