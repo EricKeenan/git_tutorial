@@ -15,7 +15,7 @@ python3 main.py
 ### Before the tutorial
 Please make sure you
 1. Install git on your computer
-2. Create a [GiHub](https://github.com) account
+2. Create a [GitHub](https://github.com) account
 3. Install python3 on your computer (not strickly necessary, but very illustrative).
  
 ### Farmiliarize yourself with the issue we will collaboratively solve
